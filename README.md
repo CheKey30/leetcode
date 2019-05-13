@@ -1,7 +1,11 @@
 # Leetcode
 
 ## content
-[TOC]
+[Content](#content)
+[Categories](#categories)
+	[Sort](#sort)
+	[Search](#search)
+
 
 ## categories
 ### sort
