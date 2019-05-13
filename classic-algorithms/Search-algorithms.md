@@ -10,8 +10,8 @@ def linearsearch(array,key):
 	else:
 		return -1
 ```
-time complexity O(n)
-space complexity O(1)
+time complexity O(n)  
+space complexity O(1)  
 
 ## Binary search
 ```python
@@ -30,8 +30,8 @@ def binarysearch(array, key):
 			right = mid-1
 	return -1
 ```
-time complexity O(logn)
-space complexity O(1)
+time complexity O(logn)  
+space complexity O(1)  
 ## Jump search
 ```python
 import math
@@ -58,8 +58,8 @@ def jumpsearch(array,key):
 	return -1
 		
 ```
-time complexity O(n^0.5)
-space complexity O(1)
+time complexity O(n^0.5)  
+space complexity O(1)  
 ## Interpolation Search
 ```python
 def interpolationsearch(array,key):
@@ -81,8 +81,8 @@ def interpolationsearch(array,key):
 			right=pos-1
 	return -1
 ```
-time complexity O(loglogn)
-space complexity O(1)
+time complexity O(loglogn)  
+space complexity O(1)  
 ## Exponential search
 ```python
 #binary search in recursive way
@@ -105,8 +105,8 @@ def exponentialsearch(array,key):
 		i = i*2
 	return binarysearch(array,int(i/2),min(i,n),key)
 ```
-time complexity O(logn)
-space complexity O(1)
+time complexity O(logn)  
+space complexity O(1)  
 
 ## Ternary Search
 ```python
@@ -125,7 +125,7 @@ def ternarysearch(array, left, right, key):
 		return ternarysearch(array,mid1+1,mid2-1,key)
 	return -1
 ```
-time complexity O(2log3n)
-space complexity O(1)
-**note:** It is not better than binary search.
-**All algorithms need a sorted array except the linear search.**
+time complexity O(2log3n)  
+space complexity O(1)  
+**note:** It is not better than binary search.  
+**All algorithms need a sorted array except the linear search.**  
