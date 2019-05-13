@@ -1,18 +1,24 @@
 # Leetcode
 
-## content
-* [Content](#content)
-* [Categories](#categories)
-	* [Sort](#sort)
-	* [Search](#search)
+## Content
+* [Content](#Content)
+* [Classic algorithms](#Class algorithms)
+* [Data structure](#Data structure)
+* [Categories](#Categories)
+	* [Sort](#Sort)
+	* [Search](#Search)
+## Classic algorithms
+Name|Note
+------|-------|
+search algorithms | [note](./classic algorithms/Search algorithms.md)
+## Data structure
 
-
-## categories
-### sort
+## Categories
+### Sort
 No. | difficulty | solution |note|time complexity|space complexity
 ------| -------------|-------------|--------|---------------|----------|
 59 | medium|[solution](./59/solution.py)|[note](./59/note.md)||
-### search
+### Search
 No. | difficulty | solution |note|time complexity|space complexity
 ------| -------------|-------------|--------|--------|--------|
 59 | medium|[solution](./59/solution.py)|[note](./59/note.md)||
