@@ -1,10 +1,10 @@
 # Leetcode
 
 ## content
-[Content](#content)
-[Categories](#categories)
-	[Sort](#sort)
-	[Search](#search)
+* [Content](#content)
+* [Categories](#categories)
+	* [Sort](#sort)
+	* [Search](#search)
 
 
 ## categories
