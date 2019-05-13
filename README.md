@@ -2,15 +2,15 @@
 
 ## Content
 * [Content](#Content)
-* [Classic algorithms](#Classic algorithms)
-* [Data structure](#Data structure)
+* [Classic algorithms](#Classic-algorithms)
+* [Data structure](#Data-structure)
 * [Categories](#Categories)
 	* [Sort](#Sort)
 	* [Search](#Search)
 ## Classic algorithms
 Name|Note
 ------|-------|
-search algorithms | [note](./classic algorithms/Search algorithms.md)
+search algorithms | [note](./classic-algorithms/Search-algorithms.md)
 ## Data structure
 
 ## Categories
