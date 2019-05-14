@@ -21,7 +21,7 @@ def binarysearch(array, key):
 	if left >= right:
 		return -1
 	while left <= right:
-		mid = int((right-left)/2)
+		mid = int((right+left)/2)
 		if array[mid] == key:
 			return mid
 		elif array[mid]<key:
