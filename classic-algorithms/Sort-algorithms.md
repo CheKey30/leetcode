@@ -207,5 +207,3 @@ def bucketsort(array):
 ```
 time complexity O(n)  
 space complexity O(n)  
-
-S
