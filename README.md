@@ -12,6 +12,7 @@
 Name|Note
 ------|-------|
 search algorithms | [note](./classic-algorithms/Search-algorithms.md)
+sort algorithms | [note](./classic-algorithms/Sort-algorithms.md)
 ## Data structure
 
 ## Categories
