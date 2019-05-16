@@ -33,7 +33,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 154|hard|[solution](./154/154.py)|[note](./154/154.md)|O(n^2)|O(1)|
 162|medium|[solution](./162/162.py)|[note](./162/162.md)|O(logn)|O(1)|
 658|medium|[solution](./658/658.py)|[note](./658/658.md)|O(logn)|O(1)|&hearts;
-378|medium|[solution](./378.py)|[note](./378.md)|O(nlogn)|O(1)|&hearts;
+378|medium|[solution](./378/378.py)|[note](./378/378.md)|O(nlogn)|O(1)|&hearts;
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------|
@@ -43,4 +43,4 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------|
-378|medium|[solution](./378.py)|[note](./378.md)|O(nlogn)|O(1)|&hearts;
+378|medium|[solution](./378/378.py)|[note](./378/378.md)|O(nlogn)|O(1)|&hearts;
