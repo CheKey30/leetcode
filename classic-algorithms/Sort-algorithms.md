@@ -56,8 +56,8 @@ space complexity O(1)
 def mergesort(array):
 	if len(array)>1:
 		mid = len(array)//2
-		L = arr[:mid]
-		R = arr[mid:]
+		L = array[:mid]
+		R = array[mid:]
 		mergesort(L)
 		mergesort(R)
 		#merge L and R
