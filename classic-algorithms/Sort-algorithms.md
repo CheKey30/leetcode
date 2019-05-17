@@ -115,19 +115,22 @@ space complexity O(logn)
 def quicksort(array,l,r):
 	if l<r:
 		i,j,x = l,r,array[l]
-		while i<j and array[j]>=x:
-			j+=1
-		if i<j:
-			array[i] = array[j]
-			i+=1
-		while i<j and array[i]<=x:
-			i+=1
-		if i<j:
-			array[j] = array[i]
-			j-=1
+		while i<j:
+			while i<j and array[j]>=x:
+				j-=1
+			if i<j:
+				array[i] = array[j]
+				i+=1
+			while i<j and array[i]<=x:
+				i+=1
+			if i<j:
+				array[j] = array[i]
+				j-=1
 		array[i] = x
 		quicksort(array,l,i-1)
 		quicksort(array,i+1,r)
+def QuickSort(array):
+	quicksort(array,0,len(array)-1)
 	return array
 ````
 time complexity O(nlogn)  

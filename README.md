@@ -21,6 +21,10 @@ sort algorithms II| [note](./classic-algorithms/Sort-algorithms-II.md)
 ### Sort
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|---------------|----------|----------|
+56|medium|[solution](./56/56.py)|[note](./56/56.md)|O(n)|O(1)|
+57|hard |[solution](./57/57.py)|[note](./57/57.md)|O(n)|O(n)|&hearts;
+75|medium|[solution](./75/75.py)|[note](./75/75.md)|O(logn)|O(1)|
+148|medium|[solution](./148/148.py)|[note](./148/148.md)|O(logn)|O(1)
 ### Search
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|--------
@@ -39,6 +43,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------|
 59|medium|[solution](./59/59.py)|[note](./59/59.md)|O(n^2)|O(n^2)
 54|medium|[solution](./54/54.py)|[note](./54/54.md)|O(n^2)|O(n^2)
+56|medium|[solution](./56/56.py)|[note](./56/56.md)|O(n)|O(1)|
+57|hard |[solution](./57/57.py)|[note](./57/57.md)|O(n)|O(n)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
