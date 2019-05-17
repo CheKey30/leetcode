@@ -21,32 +21,32 @@ sort algorithms II| [note](./classic-algorithms/Sort-algorithms-II.md)
 ### Sort
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|---------------|----------|----------|
-56|medium|[solution](./56/56.py)|[note](./56/56.md)|O(n)|O(1)|
-57|hard |[solution](./57/57.py)|[note](./57/57.md)|O(n)|O(n)|&hearts;
-75|medium|[solution](./75/75.py)|[note](./75/75.md)|O(logn)|O(1)|
-148|medium|[solution](./148/148.py)|[note](./148/148.md)|O(logn)|O(1)
+56|medium|[solution](./0056/56.py)|[note](./0056/56.md)|O(n)|O(1)|
+57|hard |[solution](./0057/57.py)|[note](./0057/57.md)|O(n)|O(n)|&hearts;
+75|medium|[solution](./0075/75.py)|[note](./0075/75.md)|O(logn)|O(1)|
+148|medium|[solution](./0148/148.py)|[note](./0148/148.md)|O(logn)|O(1)
 ### Search
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|--------
-33|medium|[solution](./33/33.py)|[note](./33/33.md)|O(logn)|O(1)|&hearts;
-34|medium|[solution](./34/34.py)|[note](./34/34.md)|O(logn)|O(1)|
-81|medium|[solution](./81/81.py)|[note](./81/81.md)|O(n^2)|O(1)|
-74|medium|[solution](./74/74.py)|[note](./74/74.md)|O(logn)|O(1)|
-240|medium|[solution](./240/240.py)|[note](./240/240.md)|O(nlogn)|O(1)|
-153|medium|[solution](./153/153.py)|[note](./153/153.md)|O(logn)|O(1)|
-154|hard|[solution](./154/154.py)|[note](./154/154.md)|O(n^2)|O(1)|
-162|medium|[solution](./162/162.py)|[note](./162/162.md)|O(logn)|O(1)|
-658|medium|[solution](./658/658.py)|[note](./658/658.md)|O(logn)|O(1)|&hearts;
-378|medium|[solution](./378/378.py)|[note](./378/378.md)|O(nlogn)|O(1)|&hearts;
+33|medium|[solution](./0033/33.py)|[note](./0033/33.md)|O(logn)|O(1)|&hearts;
+34|medium|[solution](./0034/34.py)|[note](./0034/34.md)|O(logn)|O(1)|
+81|medium|[solution](./0081/81.py)|[note](./0081/81.md)|O(n^2)|O(1)|
+74|medium|[solution](./0074/74.py)|[note](./0074/74.md)|O(logn)|O(1)|
+240|medium|[solution](./0240/240.py)|[note](./0240/240.md)|O(nlogn)|O(1)|
+153|medium|[solution](./0153/153.py)|[note](./0153/153.md)|O(logn)|O(1)|
+154|hard|[solution](./0154/154.py)|[note](./0154/154.md)|O(n^2)|O(1)|
+162|medium|[solution](./0162/162.py)|[note](./0162/162.md)|O(logn)|O(1)|
+658|medium|[solution](./0658/658.py)|[note](./0658/658.md)|O(logn)|O(1)|&hearts;
+378|medium|[solution](./0378/378.py)|[note](./0378/378.md)|O(nlogn)|O(1)|&hearts;
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------|
-59|medium|[solution](./59/59.py)|[note](./59/59.md)|O(n^2)|O(n^2)
-54|medium|[solution](./54/54.py)|[note](./54/54.md)|O(n^2)|O(n^2)
-56|medium|[solution](./56/56.py)|[note](./56/56.md)|O(n)|O(1)|
-57|hard |[solution](./57/57.py)|[note](./57/57.md)|O(n)|O(n)|&hearts;
+59|medium|[solution](./0059/59.py)|[note](./0059/59.md)|O(n^2)|O(n^2)
+54|medium|[solution](./0054/54.py)|[note](./0054/54.md)|O(n^2)|O(n^2)
+56|medium|[solution](./0056/56.py)|[note](./0056/56.md)|O(n)|O(1)|
+57|hard |[solution](./0057/57.py)|[note](./0057/57.md)|O(n)|O(n)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------|
-378|medium|[solution](./378/378.py)|[note](./378/378.md)|O(nlogn)|O(1)|&hearts;
+378|medium|[solution](./0378/378.py)|[note](./0378/378.md)|O(nlogn)|O(1)|&hearts;
