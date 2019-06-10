@@ -10,6 +10,7 @@
 	* [Array](#Array)
 	* [Heap](#Heap)
 	* [Tree](#Tree)
+	* [String](#String)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -55,6 +56,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 54|Medium|[solution](./0054/54.py)|[note](./0054/54.md)|O(n^2)|O(n^2)
 56|Medium|[solution](./0056/56.py)|[note](./0056/56.md)|O(n)|O(1)|
 57|Hard |[solution](./0057/57.py)|[note](./0057/57.md)|O(n)|O(n)|&hearts;
+1051|Easy|[solution](./1051/1051.py)|[note](./1051/1051.md)|O(n)|O(n)|
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -68,3 +70,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 270|Medium|[solution](./0270/270.py)|[note](./0270/270.md)|O(logn)|O(1)|&hearts;
 272|Hard|[solution](./0272/272.py)|[note](./0272/272.md)|O(logn)|O(k)|&hearts;
 
+### String
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1078|Easy|[solution](./1078/1078.py)|[note](./1078/1078.md)|O(n)|O(n)|
