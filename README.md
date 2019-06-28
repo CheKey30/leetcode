@@ -11,6 +11,7 @@
 	* [Heap](#Heap)
 	* [Tree](#Tree)
 	* [String](#String)
+	* [Hash Table](#Hash Table)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -49,14 +50,19 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 436|Medium|[solution](./0436/436.py)|[note](./0436/436.md)|O(nlogn)|O(1)|
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
 1064|Easy|[solution](./1064/1064.py)|[note](./1064/1064.md)|O(logn)|O(1)|
+0475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
-59|Medium|[solution](./0059/59.py)|[note](./0059/59.md)|O(n^2)|O(n^2)
-54|Medium|[solution](./0054/54.py)|[note](./0054/54.md)|O(n^2)|O(n^2)
+59|Medium|[solution](./0059/59.py)|[note](./0059/59.md)|O(n^2)|O(n^2)|
+54|Medium|[solution](./0054/54.py)|[note](./0054/54.md)|O(n^2)|O(n^2)|
 56|Medium|[solution](./0056/56.py)|[note](./0056/56.md)|O(n)|O(1)|
 57|Hard |[solution](./0057/57.py)|[note](./0057/57.md)|O(n)|O(n)|&hearts;
 1051|Easy|[solution](./1051/1051.py)|[note](./1051/1051.md)|O(n)|O(n)|
+1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
+1085|Easy|[solution](./1085/1085.py)|[note](./1085/1085.md)|O(m)|O(m)|
+1002|Easy|[solution](./1002/1002.py)|[note](./1002/1002.py)|O(m\*n)|O(m)|&hearts;
+1089|Easy|[solution](./1089/1089.py)|[note](./1089/1089.md)|O(n)|O(1)|
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -74,3 +80,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1078|Easy|[solution](./1078/1078.py)|[note](./1078/1078.md)|O(n)|O(n)|
+
+### Hash Table
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
