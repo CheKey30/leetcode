@@ -12,6 +12,9 @@
 	* [Tree](#Tree)
 	* [String](#String)
 	* [Hash Table](#Hash Table)
+	* [Stack](#Stack)
+	* [Two Pointers](#Two Pointers)
+	* [Greedy](#Greedy)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -50,7 +53,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 436|Medium|[solution](./0436/436.py)|[note](./0436/436.md)|O(nlogn)|O(1)|
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
 1064|Easy|[solution](./1064/1064.py)|[note](./1064/1064.md)|O(logn)|O(1)|
-0475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
+475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
@@ -63,6 +66,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1085|Easy|[solution](./1085/1085.py)|[note](./1085/1085.md)|O(m)|O(m)|
 1002|Easy|[solution](./1002/1002.py)|[note](./1002/1002.py)|O(m\*n)|O(m)|&hearts;
 1089|Easy|[solution](./1089/1089.py)|[note](./1089/1089.md)|O(n)|O(1)|
+985|Easy|[solution](./0985/985.py)|[note](./0985/985.md)|O(n)|O(n)
+1103|Easy|[solution](./1103/1103.py)|[note](./1103/1103.md)|O(n)|O(n)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -75,13 +80,33 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 222|Medium|[solution](./0222/222.py)|[note](./0222/222.md)|O(nlogn)|O(1)|&hearts;
 270|Medium|[solution](./0270/270.py)|[note](./0270/270.md)|O(logn)|O(1)|&hearts;
 272|Hard|[solution](./0272/272.py)|[note](./0272/272.md)|O(logn)|O(k)|&hearts;
+101|Easy|[solution](./0101/101.py)|[note](./0101/101.md)|O(n)|O(n)|&hearts;
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1078|Easy|[solution](./1078/1078.py)|[note](./1078/1078.md)|O(n)|O(n)|
+1009|Easy|[solution](./1009/1009.py)|[note](./1009/1009.md)|O(n)|O(n)|
+1065|Easy|[solution](./1065/1065.py)|[note](./1065/1065.md)|O(n\*m\*k)|O(m)
 
 ### Hash Table
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
+
+### Stack
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1047|Easy|[solution](./1047/1047.py)|[note](./1047/1047.md)|O(n)|O(n)|
+1021|Easy|[solution](./1021/1021.py)|[note](./1021/1021.md)|O(n)|O(1)|
+
+### Two Pointers
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1099|Easy|[solution](./1099/1099.py)|[note](./1099/1099.md)|O(n^2)|O(1)
+
+### Greedy
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
+
