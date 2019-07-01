@@ -11,9 +11,9 @@
 	* [Heap](#Heap)
 	* [Tree](#Tree)
 	* [String](#String)
-	* [Hash Table](#Hash Table)
+	* [Hash_Table](#Hash_Table)
 	* [Stack](#Stack)
-	* [Two Pointers](#Two Pointers)
+	* [Two_Pointers](#Two_Pointers)
 	* [Greedy](#Greedy)
 ## Classic algorithms
 Name|Note
@@ -89,7 +89,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1009|Easy|[solution](./1009/1009.py)|[note](./1009/1009.md)|O(n)|O(n)|
 1065|Easy|[solution](./1065/1065.py)|[note](./1065/1065.md)|O(n\*m\*k)|O(m)
 
-### Hash Table
+### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
@@ -100,7 +100,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1047|Easy|[solution](./1047/1047.py)|[note](./1047/1047.md)|O(n)|O(n)|
 1021|Easy|[solution](./1021/1021.py)|[note](./1021/1021.md)|O(n)|O(1)|
 
-### Two Pointers
+### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1099|Easy|[solution](./1099/1099.py)|[note](./1099/1099.md)|O(n^2)|O(1)
