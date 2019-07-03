@@ -68,6 +68,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1089|Easy|[solution](./1089/1089.py)|[note](./1089/1089.md)|O(n)|O(1)|
 985|Easy|[solution](./0985/985.py)|[note](./0985/985.md)|O(n)|O(n)
 1103|Easy|[solution](./1103/1103.py)|[note](./1103/1103.md)|O(n)|O(n)
+1013|Easy|[solution](./1013/1013.py)|[note](./1013/1013.md)|O(n)|O(1)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -88,11 +89,13 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1078|Easy|[solution](./1078/1078.py)|[note](./1078/1078.md)|O(n)|O(n)|
 1009|Easy|[solution](./1009/1009.py)|[note](./1009/1009.md)|O(n)|O(n)|
 1065|Easy|[solution](./1065/1065.py)|[note](./1065/1065.md)|O(n\*m\*k)|O(m)
+1071|Easy|[solution](./1071/1071.py)|[note](./1071/1071.md)|O(n)|O(1)
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
+219|Easy|[solution](./0219/219.py)|[note](./0219/219.md)|O(n)|O(1)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
