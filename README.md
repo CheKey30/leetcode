@@ -15,6 +15,7 @@
 	* [Stack](#Stack)
 	* [Two_Pointers](#Two_Pointers)
 	* [Greedy](#Greedy)
+	* [Linked_List](#Linked_List)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -102,6 +103,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1047|Easy|[solution](./1047/1047.py)|[note](./1047/1047.md)|O(n)|O(n)|
 1021|Easy|[solution](./1021/1021.py)|[note](./1021/1021.md)|O(n)|O(1)|
+1063|Hard|[solution](./1063/1063.py)|[note](./1063/1063.md)|O(n)|O(n)|&hearts;
+84|Hard|[solution](./0084/84.py)|[note](./0084/84.md)|O(n)|O(n)|&hearts;
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -112,4 +115,11 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
+
+### Linked_List
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+86|Medium|[solution](./0086/86.py)|[note](./0086/86.md)|O(n)|O(n)
+141|Easy|[solution](./0141/141.py)|[note](./0141/141.md)|O(n)|O(1)
+142|Medium|[solution](./0142/142.py)|[note](./0142/142.md)|O(n)|O(1)|&hearts;
 
