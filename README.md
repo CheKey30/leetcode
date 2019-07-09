@@ -16,6 +16,7 @@
 	* [Two_Pointers](#Two_Pointers)
 	* [Greedy](#Greedy)
 	* [Linked_List](#Linked_List)
+	* [Dynamic_programming](#Dynamic_programming)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -70,6 +71,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 985|Easy|[solution](./0985/985.py)|[note](./0985/985.md)|O(n)|O(n)
 1103|Easy|[solution](./1103/1103.py)|[note](./1103/1103.md)|O(n)|O(n)
 1013|Easy|[solution](./1013/1013.py)|[note](./1013/1013.md)|O(n)|O(1)
+0999|Easy|[solution](./0999/999.py)|[note](./0999/999.md)|O(n^2)|O(1)
+370|Medium|[solution](./0370/370.py)|[note](./0370/370.md)|O(n)|O(n)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -83,6 +86,12 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 270|Medium|[solution](./0270/270.py)|[note](./0270/270.md)|O(logn)|O(1)|&hearts;
 272|Hard|[solution](./0272/272.py)|[note](./0272/272.md)|O(logn)|O(k)|&hearts;
 101|Easy|[solution](./0101/101.py)|[note](./0101/101.md)|O(n)|O(n)|&hearts;
+129|Medium|[solution](./0129/129.py)|[note](./0129/129.md)|O(n)|O(1)|
+1022|Medium|[solution](./1022/1022.py)|[note](./1022/1022.md)|O(n)|O(1)|
+988|Medium|[solution](./0988/988.py)|[note](./0988/988.md)|O(n)|O(1)|
+112|Easy|[solution](./0112/112.py)|[note](./0112/112.md)|O(n)|O(1)|
+113|Medium|[solution](./0113/113.py)|[note](./0113/113.md)|O(n)|O(n)|&hearts;
+437|Easy|[solution](./0437/437.py)|[note](./0437/437.md)|O(n)|O(n)|&hearts;
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -122,4 +131,11 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 86|Medium|[solution](./0086/86.py)|[note](./0086/86.md)|O(n)|O(n)
 141|Easy|[solution](./0141/141.py)|[note](./0141/141.md)|O(n)|O(1)
 142|Medium|[solution](./0142/142.py)|[note](./0142/142.md)|O(n)|O(1)|&hearts;
+
+### Dynamic_Programming
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1031|Medium|[solution](./1031/1031.py)|[note](./1031/1031.md)|O(n)|O(n)|&hearts;
+264|Medium|[solution](./0264/264.py)|[note](./0264/264.md)|O(n)|O(n)|
+64|Medium|[solution](./0064/64.py)|[note](./0064/64.md)|O(m\*n)|O(m\*n)|&hearts;
 
