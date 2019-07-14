@@ -18,7 +18,8 @@
 	* [Linked_List](#Linked_List)
 	* [Dynamic_programming](#Dynamic_programming)
 	* [Back_Tracking](#Back_Tracking)
-	* [Greedy](#Greedy)
+
+
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -136,6 +137,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
+1029|Easy|[solution](./1029/1029.py)|[note](./1029/1029.md)|O(n)|O(n)
 
 ### Linked_List
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -158,9 +160,5 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 
 
-### Greedy
-No. | difficulty | solution |note|time complexity|space complexity|like
-------| -------------|-------------|--------|--------|--------|------------
-1029|Easy|[solution](./1029/1029.py)|[note](./1029/1029.md)|O(n)|O(n)
 
 
