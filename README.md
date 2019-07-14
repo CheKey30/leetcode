@@ -17,6 +17,8 @@
 	* [Greedy](#Greedy)
 	* [Linked_List](#Linked_List)
 	* [Dynamic_programming](#Dynamic_programming)
+	* [Back_Tracking](#Back_Tracking)
+	* [Greedy](#Greedy)
 ## Classic algorithms
 Name|Note
 ------|-------|
@@ -73,6 +75,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1013|Easy|[solution](./1013/1013.py)|[note](./1013/1013.md)|O(n)|O(1)
 0999|Easy|[solution](./0999/999.py)|[note](./0999/999.md)|O(n^2)|O(1)
 370|Medium|[solution](./0370/370.py)|[note](./0370/370.md)|O(n)|O(n)|&hearts;
+1030|Easy|[solution](./1030/1030.py)|[note](./1030/1030.md)|O(n)|O(n)|
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -92,6 +95,13 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 112|Easy|[solution](./0112/112.py)|[note](./0112/112.md)|O(n)|O(1)|
 113|Medium|[solution](./0113/113.py)|[note](./0113/113.md)|O(n)|O(n)|&hearts;
 437|Easy|[solution](./0437/437.py)|[note](./0437/437.md)|O(n)|O(n)|&hearts;
+103|Medium|[solution](./0103/103.py)|[note](./0103/103.md)|O(n)|O(n)|&hearts;
+993|Easy|[solution](./0993/993.py)|[note](./0993/993.md)|O(n)|O(k)
+108|Easy|[solution](./0108/108.py)|[note](./0108/108.md)|O(n)|O(n)
+109|Medium|[solution](./0109/109.py)|[note](./0109/109.md)|O(n)|O(n)
+110|Easy|[solution](./0110/110.py)|[note](./0110/110.md)|O(n)|O(1)|&hearts;
+98|Medium|[solution](./0098/98.py)|[note](./0098/98.md)|O(n)|O(n)|&hearts;
+
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -100,12 +110,14 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1009|Easy|[solution](./1009/1009.py)|[note](./1009/1009.md)|O(n)|O(n)|
 1065|Easy|[solution](./1065/1065.py)|[note](./1065/1065.md)|O(n\*m\*k)|O(m)
 1071|Easy|[solution](./1071/1071.py)|[note](./1071/1071.md)|O(n)|O(1)
+916|Medium|[solution](./0916/916.py)|[note](./0916/916.md)|O(m\*n)|O(k)
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
 219|Easy|[solution](./0219/219.py)|[note](./0219/219.md)|O(n)|O(1)
+36|Medium|[solution](./0036/36.py)|[note](./0036/36.md)|O(n^2)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -138,4 +150,17 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1031|Medium|[solution](./1031/1031.py)|[note](./1031/1031.md)|O(n)|O(n)|&hearts;
 264|Medium|[solution](./0264/264.py)|[note](./0264/264.md)|O(n)|O(n)|
 64|Medium|[solution](./0064/64.py)|[note](./0064/64.md)|O(m\*n)|O(m\*n)|&hearts;
+1025|Easy|[solution](./1025/1025.py)|[note](./1025/1025.md)|O(n^2)|O(n)
+120|Medium|[solution](./0120/120.py)|[note](./0120/120.md)|O(n^2)|O(n)
+
+### Back_Tracking
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+
+
+### Greedy
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1029|Easy|[solution](./1029/1029.py)|[note](./1029/1029.md)|O(n)|O(n)
+
 
