@@ -37,6 +37,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 75|Medium|[solution](./0075/75.py)|[note](./0075/75.md)|O(logn)|O(1)|
 148|Medium|[solution](./0148/148.py)|[note](./0148/148.md)|O(logn)|O(1)
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
+791|Medium|[solution](./0791/791.py)|[note](./0791/791.md)|O(n)|O(n)
+1122|Easy|[solution](./1122/1122.py)|[note](./1122/1122.md)O(n)|O(n)
 ### Search
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|--------
@@ -77,6 +79,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 0999|Easy|[solution](./0999/999.py)|[note](./0999/999.md)|O(n^2)|O(1)
 370|Medium|[solution](./0370/370.py)|[note](./0370/370.md)|O(n)|O(n)|&hearts;
 1030|Easy|[solution](./1030/1030.py)|[note](./1030/1030.md)|O(n)|O(n)|
+157|Easy|[solution](./0157/157.py)|[note](./0157/157.md)|O(n)|O(n)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -102,6 +105,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 109|Medium|[solution](./0109/109.py)|[note](./0109/109.md)|O(n)|O(n)
 110|Easy|[solution](./0110/110.py)|[note](./0110/110.md)|O(n)|O(1)|&hearts;
 98|Medium|[solution](./0098/98.py)|[note](./0098/98.md)|O(n)|O(n)|&hearts;
+114|Medium|[solution](./0114/114.py)|[note](./0114/114.md)|O(n)|O(n)|&hearts;
 
 
 ### String
@@ -112,6 +116,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1065|Easy|[solution](./1065/1065.py)|[note](./1065/1065.md)|O(n\*m\*k)|O(m)
 1071|Easy|[solution](./1071/1071.py)|[note](./1071/1071.md)|O(n)|O(1)
 916|Medium|[solution](./0916/916.py)|[note](./0916/916.md)|O(m\*n)|O(k)
+125|Easy|[solution](./0125/125.py)|[note](./0125/125.md)|O(n)|O(n)
+680|Easy|[solution](./0680/680.py)|[note](./0680/680.md)|O(n)|O(1)
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -119,6 +125,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1086|Easy|[solution](./1086/1086.py)|[note](./1086/1086.md)|O(m+n)|O(m)|
 219|Easy|[solution](./0219/219.py)|[note](./0219/219.md)|O(n)|O(1)
 36|Medium|[solution](./0036/36.py)|[note](./0036/36.md)|O(n^2)|O(n)
+137|Medium|[solution](./0137/137.py)|[note](./0137/137.md)|O(n)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -154,6 +161,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 64|Medium|[solution](./0064/64.py)|[note](./0064/64.md)|O(m\*n)|O(m\*n)|&hearts;
 1025|Easy|[solution](./1025/1025.py)|[note](./1025/1025.md)|O(n^2)|O(n)
 120|Medium|[solution](./0120/120.py)|[note](./0120/120.md)|O(n^2)|O(n)
+1043|Medium|[solution](./1043/1043.py)|[note](./1043/1043.md)|O(n^2)|O(n)
+
 
 ### Back_Tracking
 No. | difficulty | solution |note|time complexity|space complexity|like
