@@ -18,6 +18,8 @@
 	* [Linked_List](#Linked_List)
 	* [Dynamic_programming](#Dynamic_programming)
 	* [Back_Tracking](#Back_Tracking)
+	* [Bit_Manipulation](#Bit_Manipulation)
+	* [Math](#Math)
 
 
 ## Classic algorithms
@@ -106,7 +108,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 110|Easy|[solution](./0110/110.py)|[note](./0110/110.md)|O(n)|O(1)|&hearts;
 98|Medium|[solution](./0098/98.py)|[note](./0098/98.md)|O(n)|O(n)|&hearts;
 114|Medium|[solution](./0114/114.py)|[note](./0114/114.md)|O(n)|O(n)|&hearts;
-
+173|Medium|[solution](./0173/173.py)|[note](./0173/173.md)|O(1)|O(n)|&hearts;
+199|Medium|[solution](./0199/199.py)|[note](./0199/199.md)|O(n)|O(logn)|
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -118,6 +121,11 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 916|Medium|[solution](./0916/916.py)|[note](./0916/916.md)|O(m\*n)|O(k)
 125|Easy|[solution](./0125/125.py)|[note](./0125/125.md)|O(n)|O(n)
 680|Easy|[solution](./0680/680.py)|[note](./0680/680.md)|O(n)|O(1)
+186|Medium|[solution](./0186/186.py)|[note](./0186/186.md)|O(n)|O(1)
+1100|Medium|[solution](./1100/1100.py)|[note](./1100/1100.md)|O(n)|O(1)
+246|Easy|[solution](./0246/246.py)|[note](./0246/246.md)|O(n)|O(1)
+247|Medium|[solution](./0247/247.py)|[note](./0247/247.md)|O(5^n/2)|O(5^n/2)
+205|Easy|[solution](./0205/205.py)|[note](./0205/205.md)|O(n)|O(n)
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -126,6 +134,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 219|Easy|[solution](./0219/219.py)|[note](./0219/219.md)|O(n)|O(1)
 36|Medium|[solution](./0036/36.py)|[note](./0036/36.md)|O(n^2)|O(n)
 137|Medium|[solution](./0137/137.py)|[note](./0137/137.md)|O(n)|O(n)
+170|Easy|[solution](./0170/170.py)|[note](./0170/170.md)|O(n)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -152,6 +161,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 86|Medium|[solution](./0086/86.py)|[note](./0086/86.md)|O(n)|O(n)
 141|Easy|[solution](./0141/141.py)|[note](./0141/141.md)|O(n)|O(1)
 142|Medium|[solution](./0142/142.py)|[note](./0142/142.md)|O(n)|O(1)|&hearts;
+160|Easy|[solution](./0160/160.py)|[note](./0160/160.md)|O(n)|O(1)|&hearts;
+25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)&hearts;
 
 ### Dynamic_Programming
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -167,7 +178,14 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ### Back_Tracking
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
+93|Medium|[solution](./0093/93.py)|[note](./0093/93.md)|O()|O(m\*n)|&hearts;
 
+### Bit_Manipulation
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+190|Easy|[solution](./0190/190.py)|[note](./0190/190.md)|O(1)|O(1)
 
-
-
+### Math
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+172|Easy|[solution](./0172/172.py)|[note](./0172/172.md)|O(log5(n))|O(1)
