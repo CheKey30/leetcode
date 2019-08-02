@@ -110,6 +110,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 114|Medium|[solution](./0114/114.py)|[note](./0114/114.md)|O(n)|O(n)|&hearts;
 173|Medium|[solution](./0173/173.py)|[note](./0173/173.md)|O(1)|O(n)|&hearts;
 199|Medium|[solution](./0199/199.py)|[note](./0199/199.md)|O(n)|O(logn)|
+1038|Medium|[solution](./1038/1038.py)|[note](./1038/1038.md)|O(n)|O(1)|
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -179,6 +180,9 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 93|Medium|[solution](./0093/93.py)|[note](./0093/93.md)|O()|O(m\*n)|&hearts;
+1079|Medium|[solution](./1079/1079.py)|[note](./1079/1079.md)|O(n!)|O(n)|
+526|Medium|[solution](./0526/526.py)|[note](./0526/526.md)|O(n!)|O(n)|
+77|Medium|[solution](./0077/77.py)|[note](./0077/77.md)|O(n!)O(1)|
 
 ### Bit_Manipulation
 No. | difficulty | solution |note|time complexity|space complexity|like
