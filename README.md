@@ -28,6 +28,7 @@ Name|Note
 search algorithms | [note](./classic-algorithms/Search-algorithms.md)
 sort algorithms | [note](./classic-algorithms/Sort-algorithms.md)
 sort algorithms II| [note](./classic-algorithms/Sort-algorithms-II.md)
+backtracking|[note](./classic-algorithms/backtracking.md)
 ## Data structure
 
 ## Categories
