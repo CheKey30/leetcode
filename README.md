@@ -29,7 +29,12 @@ search algorithms | [note](./classic-algorithms/Search-algorithms.md)
 sort algorithms | [note](./classic-algorithms/Sort-algorithms.md)
 sort algorithms II| [note](./classic-algorithms/Sort-algorithms-II.md)
 backtracking|[note](./classic-algorithms/backtracking.md)
+Manacher|[note](./classic-algorithms/manacher.md)
+
 ## Data structure
+Name|Note
+------|-------|
+Stack and Queue|[note](./data-structure/Stack-and-Queue.md)
 
 ## Categories
 ### Sort
@@ -42,6 +47,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
 791|Medium|[solution](./0791/791.py)|[note](./0791/791.md)|O(n)|O(n)
 1122|Easy|[solution](./1122/1122.py)|[note](./1122/1122.md)O(n)|O(n)
+
 ### Search
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|--------
@@ -64,6 +70,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
 1064|Easy|[solution](./1064/1064.py)|[note](./1064/1064.md)|O(logn)|O(1)|
 475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
+
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
@@ -83,6 +90,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 370|Medium|[solution](./0370/370.py)|[note](./0370/370.md)|O(n)|O(n)|&hearts;
 1030|Easy|[solution](./1030/1030.py)|[note](./1030/1030.md)|O(n)|O(n)|
 157|Easy|[solution](./0157/157.py)|[note](./0157/157.md)|O(n)|O(n)
+15|Medium|[solution](./0015/15.java)|[note](./0015/15.md)|O(n^2)|O(n)
+1|Easy|[solution](./0001/1.py)|[note](./0001/1.md)|O(n)|O(1)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -128,6 +137,11 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 246|Easy|[solution](./0246/246.py)|[note](./0246/246.md)|O(n)|O(1)
 247|Medium|[solution](./0247/247.py)|[note](./0247/247.md)|O(5^n/2)|O(5^n/2)
 205|Easy|[solution](./0205/205.py)|[note](./0205/205.md)|O(n)|O(n)
+30|Hard|[solution](./0030/30.py)|[note](./0030/30.md)|O(n\*m)|O(m)
+5|Medium|[solution](./0005/5.java)|[note](./0005/5.md)|O(n)|O(n)
+564|Hard|[solution](./0564/564.java)|[note](./0564/564.md)|
+126|Hard|[solution](./0126/126.java)|[note](./0126/126.md)|O(k\*n)|O(n^2)|&hearts;
+127|Medium|[solution](./0127/127.java)|[note](./0127/127.md)|O(k\*n)|O(n^2)|&hearts;
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -145,6 +159,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1021|Easy|[solution](./1021/1021.py)|[note](./1021/1021.md)|O(n)|O(1)|
 1063|Hard|[solution](./1063/1063.py)|[note](./1063/1063.md)|O(n)|O(n)|&hearts;
 84|Hard|[solution](./0084/84.py)|[note](./0084/84.md)|O(n)|O(n)|&hearts;
+32|Hard|[solution](./0032/32.java)|[note](./0032/32.md)|O(n)|O(n)|&hearts;
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -175,6 +190,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1025|Easy|[solution](./1025/1025.py)|[note](./1025/1025.md)|O(n^2)|O(n)
 120|Medium|[solution](./0120/120.py)|[note](./0120/120.md)|O(n^2)|O(n)
 1043|Medium|[solution](./1043/1043.py)|[note](./1043/1043.md)|O(n^2)|O(n)
+516|Medium|[solution](./0516/516.py)|[note](./0516/516.md)|O(n^2)|O(n^2)
 
 
 ### Back_Tracking
@@ -194,3 +210,6 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 172|Easy|[solution](./0172/172.py)|[note](./0172/172.md)|O(log5(n))|O(1)
+263|Easy|[solution](./0263/263.java)|[note](./0263/263.md)|O(n)|O(1)
+9|Easy|[solution](./0009/9.java)|[note](./0009/9.md)|O(n)|O(n)
+
