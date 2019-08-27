@@ -142,6 +142,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 564|Hard|[solution](./0564/564.java)|[note](./0564/564.md)|
 126|Hard|[solution](./0126/126.java)|[note](./0126/126.md)|O(k\*n)|O(n^2)|&hearts;
 127|Medium|[solution](./0127/127.java)|[note](./0127/127.md)|O(k\*n)|O(n^2)|&hearts;
+336|Hard|[solution](./0336/336.java)|[note](./0336/336.md)|O(k\*n^2)|O(n)|&hearts;
 
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -191,6 +192,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 120|Medium|[solution](./0120/120.py)|[note](./0120/120.md)|O(n^2)|O(n)
 1043|Medium|[solution](./1043/1043.py)|[note](./1043/1043.md)|O(n^2)|O(n)
 516|Medium|[solution](./0516/516.py)|[note](./0516/516.md)|O(n^2)|O(n^2)
+329|Hard|[solution](./0329/329.java)|[note](./0329/329.md)|O(n^2)|O(n^2)|&hearts;
 
 
 ### Back_Tracking
