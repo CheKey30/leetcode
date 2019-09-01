@@ -73,6 +73,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 352|Hard|[solution](./0352/352.py)|[note](./0352/352.md)|O(n)|O(1)|&hearts;
 1064|Easy|[solution](./1064/1064.py)|[note](./1064/1064.md)|O(logn)|O(1)|
 475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
+1060|Medium|[solution](./1060/1060.java)|[note](./1060/1060.md)|O(logn)|O(1)&hearts;
 
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
