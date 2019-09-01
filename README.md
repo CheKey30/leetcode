@@ -30,11 +30,14 @@ sort algorithms | [note](./classic-algorithms/Sort-algorithms.md)
 sort algorithms II| [note](./classic-algorithms/Sort-algorithms-II.md)
 backtracking|[note](./classic-algorithms/backtracking.md)
 Manacher|[note](./classic-algorithms/manacher.md)
+Bit manipulation|[note](./classic-algorithms/bit-manipulation.md)
 
 ## Data structure
 Name|Note
 ------|-------|
 Stack and Queue|[note](./data-structure/Stack-and-Queue.md)
+Tree|[note](./data-structure/Tree.md)
+
 
 ## Categories
 ### Sort
@@ -92,6 +95,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 157|Easy|[solution](./0157/157.py)|[note](./0157/157.md)|O(n)|O(n)
 15|Medium|[solution](./0015/15.java)|[note](./0015/15.md)|O(n^2)|O(n)
 1|Easy|[solution](./0001/1.py)|[note](./0001/1.md)|O(n)|O(1)
+335|Hard|[solution](./0335/335.java)|[note](./0335/335.md)|O(n)|O(1)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -121,6 +125,14 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 173|Medium|[solution](./0173/173.py)|[note](./0173/173.md)|O(1)|O(n)|&hearts;
 199|Medium|[solution](./0199/199.py)|[note](./0199/199.md)|O(n)|O(logn)|
 1038|Medium|[solution](./1038/1038.py)|[note](./1038/1038.md)|O(n)|O(1)|
+124|hard|[solution](./0124/124.java)|[note](./0124/124.md)|O(n)|O(1)|&hearts;
+226|Easy|[solution](./0226/226.java)|[note](./0226/226.md)|O(n)|O(1)
+666|Medium|[solution](./0666/666.java)|[note](./0666/666.md)|O(n)|O(n)
+687|Easy|[solution](./0687/687.java)|[note](./0687/687.md)|O(n)|O(1)
+105|Medium|[solution](./0105/105.java)|[note](./0105/105.md)|O(n)|O(n)
+106|Medium|[solution](./0106/106.java)|[note](./0106/106.md)|O(n)|O(n)|&hearts;
+99|Hard|[solution](./0099/99.java)|[note](./0099/99.md)|O(n)|O(1)|&hearts;
+
 
 ### String
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -181,6 +193,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 142|Medium|[solution](./0142/142.py)|[note](./0142/142.md)|O(n)|O(1)|&hearts;
 160|Easy|[solution](./0160/160.py)|[note](./0160/160.md)|O(n)|O(1)|&hearts;
 25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)&hearts;
+146|Medium|[solution](./0146/146.java)|[note](./0146/146.md)|O(1)|O(n)
 
 ### Dynamic_Programming
 No. | difficulty | solution |note|time complexity|space complexity|like
