@@ -97,6 +97,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 15|Medium|[solution](./0015/15.java)|[note](./0015/15.md)|O(n^2)|O(n)
 1|Easy|[solution](./0001/1.py)|[note](./0001/1.md)|O(n)|O(1)
 335|Hard|[solution](./0335/335.java)|[note](./0335/335.md)|O(n)|O(1)|&hearts;
+73|Medium|[soution](./0073/73.java)|[note](./0073/73.md)|O(m\*n)|O(1)|
+45|Hard|[solution](./0045/45.java)|[note](./0045/45.md)|O(n)|O(1)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -133,6 +135,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 105|Medium|[solution](./0105/105.java)|[note](./0105/105.md)|O(n)|O(n)
 106|Medium|[solution](./0106/106.java)|[note](./0106/106.md)|O(n)|O(n)|&hearts;
 99|Hard|[solution](./0099/99.java)|[note](./0099/99.md)|O(n)|O(1)|&hearts;
+297|Hard|[solution](./0297/297.java)|[note](./0297/297.md)|O(n)|O(n)|&hearts;
+449|Medium|[solution](./0449/449.java)|[note](./0449/449.md)|O(n)|O(n)
 
 
 ### String
@@ -157,6 +161,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 127|Medium|[solution](./0127/127.java)|[note](./0127/127.md)|O(k\*n)|O(n^2)|&hearts;
 336|Hard|[solution](./0336/336.java)|[note](./0336/336.md)|O(k\*n^2)|O(n)|&hearts;
 
+
 ### Hash_Table
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
@@ -174,6 +179,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1063|Hard|[solution](./1063/1063.py)|[note](./1063/1063.md)|O(n)|O(n)|&hearts;
 84|Hard|[solution](./0084/84.py)|[note](./0084/84.md)|O(n)|O(n)|&hearts;
 32|Hard|[solution](./0032/32.java)|[note](./0032/32.md)|O(n)|O(n)|&hearts;
+42|Hard|[solution](./0042/42.java)|[note](./0042/42.md)|O(n)|O(n)&hearts;
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -195,6 +201,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 160|Easy|[solution](./0160/160.py)|[note](./0160/160.md)|O(n)|O(1)|&hearts;
 25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)&hearts;
 146|Medium|[solution](./0146/146.java)|[note](./0146/146.md)|O(1)|O(n)
+61|Medium|[solution](./0061/61.java)|[note](./0061/61.md)|O(m)|O(1)
 
 ### Dynamic_Programming
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -228,4 +235,5 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 172|Easy|[solution](./0172/172.py)|[note](./0172/172.md)|O(log5(n))|O(1)
 263|Easy|[solution](./0263/263.java)|[note](./0263/263.md)|O(n)|O(1)
 9|Easy|[solution](./0009/9.java)|[note](./0009/9.md)|O(n)|O(n)
+273|Hard|[solution](./0273/273.java)|[note](./0273/273.md)|O(1)|O(1)
 
