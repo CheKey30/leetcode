@@ -190,6 +190,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1099|Easy|[solution](./1099/1099.py)|[note](./1099/1099.md)|O(n^2)|O(1)
+76|Hard|[solution](./0076/76.java)|[note](./0076/76.md)|O(n)|O(n)
 
 ### Greedy
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -221,6 +222,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 329|Hard|[solution](./0329/329.java)|[note](./0329/329.md)|O(n^2)|O(n^2)|&hearts;
 322|Medium|[solution](./0322/322.java)|[note](./0322/322.md)|O(m\*n)|O(n)|
 983|Medium|[solution](./0983/983.java)|[note](./0983/983.md)|O(n)|O(n)|
+96|Medium|[solution](./0096/96.java)|[note](./0096/96.md)|O(n^2)|O(n)
+
 
 
 ### Back_Tracking
@@ -231,6 +234,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 526|Medium|[solution](./0526/526.py)|[note](./0526/526.md)|O(n!)|O(n)|
 77|Medium|[solution](./0077/77.py)|[note](./0077/77.md)|O(n!)O(1)|
 301|Hard|[solution](./0301/0301.java)|[note](./0301/301.md)|O(2^n)|O(n)|&hearts;
+95|Medium|[solution](./0095/95.java)|[note](./0095/95.md)|O(n^2)|O(n^2)|&hearts;
 
 ### Bit_Manipulation
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -244,4 +248,5 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 263|Easy|[solution](./0263/263.java)|[note](./0263/263.md)|O(n)|O(1)
 9|Easy|[solution](./0009/9.java)|[note](./0009/9.md)|O(n)|O(n)
 273|Hard|[solution](./0273/273.java)|[note](./0273/273.md)|O(1)|O(1)
-
+60|Medium|[solution](./0060/60.java)|[note](./0060/60.md)|O(n)|O(1)
+365|Medium|[solution](./0365/365.java)|[note](./0365/365.md)|O()|O(1)
