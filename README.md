@@ -262,5 +262,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 365|Medium|[solution](./0365/365.java)|[note](./0365/365.md)|O()|O(1)
 
 ## BFS/DFS
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
 79|Medium|[solution](./0079/79.java)|[note](./0079/79.md)|O(n^2)|O(1)|
 200|Medium|[solution](./0200/0200.java)|[note](./0200/200.md)|O(n^2)|O(n^2)
