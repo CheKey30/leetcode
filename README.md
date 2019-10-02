@@ -20,6 +20,7 @@
 	* [Back_Tracking](#Back_Tracking)
 	* [Bit_Manipulation](#Bit_Manipulation)
 	* [Math](#Math)
+	* [BFS/DFS](#BFS/DFS)
 
 
 ## Classic algorithms
@@ -74,6 +75,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1064|Easy|[solution](./1064/1064.py)|[note](./1064/1064.md)|O(logn)|O(1)|
 475|Easy|[soultion](./0475/475.py)|[note](./0475/475.md)|O(nlogn)|O(1)|&hearts;
 1060|Medium|[solution](./1060/1060.java)|[note](./1060/1060.md)|O(logn)|O(1)&hearts;
+300|Medium|[solution](./0300/300.java)|[note](./0300/300.md)|O(nlongn)|O(n)|&hearts;
 
 ### Array
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -100,6 +102,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 73|Medium|[soution](./0073/73.java)|[note](./0073/73.md)|O(m\*n)|O(1)|
 45|Hard|[solution](./0045/45.java)|[note](./0045/45.md)|O(n)|O(1)|&hearts;
 41|Hard|[solution](./0041/41.java)|[note](./0041/41.md)|O(n)|O(1)|&hearts;
+80|Medium|[solution](./0080/80.java)|[note](./0080.80.md)|O(n)|O(1)|&hearts;
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -138,6 +141,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 99|Hard|[solution](./0099/99.java)|[note](./0099/99.md)|O(n)|O(1)|&hearts;
 297|Hard|[solution](./0297/297.java)|[note](./0297/297.md)|O(n)|O(n)|&hearts;
 449|Medium|[solution](./0449/449.java)|[note](./0449/449.md)|O(n)|O(n)
+572|Easy|[solution](./0572/572.java)|[note](./0572/572.md)|O(n)|O(1)
 
 
 ### String
@@ -185,6 +189,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 42|Hard|[solution](./0042/42.java)|[note](./0042/42.md)|O(n)|O(n)&hearts;
 85|Hard|[solution](./0085/85.java)|[note](./0085/85.md)|O(n\*m)|O(m\*n)|&hearts;
 256|Easy|[solution](./0256/256.java)|[note](./0256/256.md)|O(n)|O(1)|
+71|Medium|[solution](./0071/71.java)|[note](./0071/71.md)|O(n)|O(n)|
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -196,7 +201,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
-1029|Easy|[solution](./1029/1029.py)|[note](./1029/1029.md)|O(n)|O(n)
+1029|Easy|[solution](./1029/1029.java)|[note](./1029/1029.md)|O(n)|O(n)
 
 ### Linked_List
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -223,6 +228,9 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 322|Medium|[solution](./0322/322.java)|[note](./0322/322.md)|O(m\*n)|O(n)|
 983|Medium|[solution](./0983/983.java)|[note](./0983/983.md)|O(n)|O(n)|
 96|Medium|[solution](./0096/96.java)|[note](./0096/96.md)|O(n^2)|O(n)
+10|hard|[solution](.0010/10.java)|[note](./0010/10.md)|O(n^2)\O(n^2)
+44|hard|[solution](./0044/44.java)|[note](./0044/44.md)|O(n^2)|O(n^2)
+91|Medium|[solution](./0091/91.java)|[note](./0091/91.md)|O(n)|O(n)
 
 
 
@@ -235,6 +243,8 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 77|Medium|[solution](./0077/77.py)|[note](./0077/77.md)|O(n!)O(1)|
 301|Hard|[solution](./0301/0301.java)|[note](./0301/301.md)|O(2^n)|O(n)|&hearts;
 95|Medium|[solution](./0095/95.java)|[note](./0095/95.md)|O(n^2)|O(n^2)|&hearts;
+37|Hard|[solution](./0037/37.java)|[note](./0037/37.md)|O(9^n)|O(1)|
+
 
 ### Bit_Manipulation
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -250,3 +260,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 273|Hard|[solution](./0273/273.java)|[note](./0273/273.md)|O(1)|O(1)
 60|Medium|[solution](./0060/60.java)|[note](./0060/60.md)|O(n)|O(1)
 365|Medium|[solution](./0365/365.java)|[note](./0365/365.md)|O()|O(1)
+
+## BFS/DFS
+79|Medium|[solution](./0079/79.java)|[note](./0079/79.md)|O(n^2)|O(1)|
+200|Medium|[solution](./0200/0200.java)|[note](./0200/200.md)|O(n^2)|O(n^2)
