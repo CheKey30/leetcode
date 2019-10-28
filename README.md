@@ -21,6 +21,7 @@
 	* [Bit_Manipulation](#Bit_Manipulation)
 	* [Math](#Math)
 	* [BFS/DFS](#BFS/DFS)
+	* [Heap](#Heap)
 
 
 ## Classic algorithms
@@ -103,6 +104,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 45|Hard|[solution](./0045/45.java)|[note](./0045/45.md)|O(n)|O(1)|&hearts;
 41|Hard|[solution](./0041/41.java)|[note](./0041/41.md)|O(n)|O(1)|&hearts;
 80|Medium|[solution](./0080/80.java)|[note](./0080.80.md)|O(n)|O(1)|&hearts;
+134|Medium|[solution](./0134/134.java)|[note](./0134/134.md)|O(n^2)|O(1)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -142,6 +144,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 297|Hard|[solution](./0297/297.java)|[note](./0297/297.md)|O(n)|O(n)|&hearts;
 449|Medium|[solution](./0449/449.java)|[note](./0449/449.md)|O(n)|O(n)
 572|Easy|[solution](./0572/572.java)|[note](./0572/572.md)|O(n)|O(1)
+235|Easy|[solution](./0235/235.java)|[note](./0235/235.md)|O(n)|O(1)
 
 
 ### String
@@ -166,6 +169,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 127|Medium|[solution](./0127/127.java)|[note](./0127/127.md)|O(k\*n)|O(n^2)|&hearts;
 336|Hard|[solution](./0336/336.java)|[note](./0336/336.md)|O(k\*n^2)|O(n)|&hearts;
 131|Medium|[solution](./0131/131.java)|[note](./0131/131.md)|O(n!)|O(n)|
+65|Hard|[solution](./0065/65.java)|[note](./0065/65.md)|
 
 
 ### Hash_Table
@@ -177,6 +181,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 137|Medium|[solution](./0137/137.py)|[note](./0137/137.md)|O(n)|O(n)
 170|Easy|[solution](./0170/170.py)|[note](./0170/170.md)|O(n)|O(n)
 560|Medium|[solution](./0560/560.java)|[note](./0560/560.md)|O(n)|O(n)
+133|Medium|[solution](./0133/133.java)|[note](./0133/133.md)|O(n)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -190,6 +195,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 85|Hard|[solution](./0085/85.java)|[note](./0085/85.md)|O(n\*m)|O(m\*n)|&hearts;
 256|Easy|[solution](./0256/256.java)|[note](./0256/256.md)|O(n)|O(1)|
 71|Medium|[solution](./0071/71.java)|[note](./0071/71.md)|O(n)|O(n)|
+150|Medium|[solution](./0150/150.java)|[note](./0150/150.md)|O(n)|O(n)|
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -202,6 +208,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
 1029|Easy|[solution](./1029/1029.java)|[note](./1029/1029.md)|O(n)|O(n)
+135|Hard|[solution](./0135/135.java)|[note](./0135/135.md)|O(n)|O(n)
 
 ### Linked_List
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -213,6 +220,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)&hearts;
 146|Medium|[solution](./0146/146.java)|[note](./0146/146.md)|O(1)|O(n)
 61|Medium|[solution](./0061/61.java)|[note](./0061/61.md)|O(m)|O(1)
+2|Medium|[solution](./0002/2.java)|[note](./0002/2.md)|O(n)|O(n)
 
 ### Dynamic_Programming
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -228,9 +236,12 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 322|Medium|[solution](./0322/322.java)|[note](./0322/322.md)|O(m\*n)|O(n)|
 983|Medium|[solution](./0983/983.java)|[note](./0983/983.md)|O(n)|O(n)|
 96|Medium|[solution](./0096/96.java)|[note](./0096/96.md)|O(n^2)|O(n)
-10|hard|[solution](.0010/10.java)|[note](./0010/10.md)|O(n^2)\O(n^2)
-44|hard|[solution](./0044/44.java)|[note](./0044/44.md)|O(n^2)|O(n^2)
+10|Hard|[solution](.0010/10.java)|[note](./0010/10.md)|O(n^2)\O(n^2)
+44|Hard|[solution](./0044/44.java)|[note](./0044/44.md)|O(n^2)|O(n^2)
 91|Medium|[solution](./0091/91.java)|[note](./0091/91.md)|O(n)|O(n)
+140|Hard|[solution](./0140/140.java)|[note](./0140/140.md)|
+97|Hard|[solution](./0097/97.java)|[note](./0097/97.md)|O(n^2)|O(n^2)
+
 
 
 
@@ -260,9 +271,18 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 273|Hard|[solution](./0273/273.java)|[note](./0273/273.md)|O(1)|O(1)
 60|Medium|[solution](./0060/60.java)|[note](./0060/60.md)|O(n)|O(1)
 365|Medium|[solution](./0365/365.java)|[note](./0365/365.md)|O()|O(1)
+149|Hard|[solution](./0149/149.java)|[note](./0149/149.md)|O(n^2)|O(1)
+89|Medium|[solution](./0089/89.java)|[note](./0089/89.md)|O(n\*2^n)|O(2^n)
 
 ## BFS/DFS
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 79|Medium|[solution](./0079/79.java)|[note](./0079/79.md)|O(n^2)|O(1)|
 200|Medium|[solution](./0200/0200.java)|[note](./0200/200.md)|O(n^2)|O(n^2)
+1192|Hard|[solution](./1192/1192.java)|[note](./1192/1192.md)|O(n)|O(n)|&hearts;
+
+## Heap
+No. | difficulty | solution |note|time complexity|space complexity|like
+------| -------------|-------------|--------|--------|--------|------------
+1167|Medium|[solution](./1167/1167.java)|[note](./1167/1167.md)|O(nlogn)|O(n)|&hearts;
+
