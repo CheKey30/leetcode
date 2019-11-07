@@ -105,6 +105,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 41|Hard|[solution](./0041/41.java)|[note](./0041/41.md)|O(n)|O(1)|&hearts;
 80|Medium|[solution](./0080/80.java)|[note](./0080.80.md)|O(n)|O(1)|&hearts;
 134|Medium|[solution](./0134/134.java)|[note](./0134/134.md)|O(n^2)|O(1)
+6|Medium|[solution](./0006/6.java)|[note](./0006/6.md)|O(m\*n)|O(m\*n)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -170,6 +171,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 336|Hard|[solution](./0336/336.java)|[note](./0336/336.md)|O(k\*n^2)|O(n)|&hearts;
 131|Medium|[solution](./0131/131.java)|[note](./0131/131.md)|O(n!)|O(n)|
 65|Hard|[solution](./0065/65.java)|[note](./0065/65.md)|
+8|Medium|[solution](./0008/8.java)|[note](./0008/8.md)|O(n)|O(n)
 
 
 ### Hash_Table
@@ -273,6 +275,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 365|Medium|[solution](./0365/365.java)|[note](./0365/365.md)|O()|O(1)
 149|Hard|[solution](./0149/149.java)|[note](./0149/149.md)|O(n^2)|O(1)
 89|Medium|[solution](./0089/89.java)|[note](./0089/89.md)|O(n\*2^n)|O(2^n)
+7|Easy|[solution](./0007/7.java)|[note](./0007/7.md)|O(n)|O(n)
 
 ## BFS/DFS
 No. | difficulty | solution |note|time complexity|space complexity|like
