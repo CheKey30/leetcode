@@ -172,6 +172,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 131|Medium|[solution](./0131/131.java)|[note](./0131/131.md)|O(n!)|O(n)|
 65|Hard|[solution](./0065/65.java)|[note](./0065/65.md)|
 8|Medium|[solution](./0008/8.java)|[note](./0008/8.md)|O(n)|O(n)
+14|Easy|[solution](./0014/14.java)|[note](./0014/14.md)|O(n)|O(1)
 
 
 ### Hash_Table
@@ -184,6 +185,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 170|Easy|[solution](./0170/170.py)|[note](./0170/170.md)|O(n)|O(n)
 560|Medium|[solution](./0560/560.java)|[note](./0560/560.md)|O(n)|O(n)
 133|Medium|[solution](./0133/133.java)|[note](./0133/133.md)|O(n)|O(n)
+13|Easy|[solution](./0013/13.java)|[note](./0013/13.md)|O(n)|O(1)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -204,6 +206,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 1099|Easy|[solution](./1099/1099.py)|[note](./1099/1099.md)|O(n^2)|O(1)
 76|Hard|[solution](./0076/76.java)|[note](./0076/76.md)|O(n)|O(n)
+11|Medium|[solution](./0011/11.java)|[note](./0011/11.md)|O(n)|O(1)
 
 ### Greedy
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -276,6 +279,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 149|Hard|[solution](./0149/149.java)|[note](./0149/149.md)|O(n^2)|O(1)
 89|Medium|[solution](./0089/89.java)|[note](./0089/89.md)|O(n\*2^n)|O(2^n)
 7|Easy|[solution](./0007/7.java)|[note](./0007/7.md)|O(n)|O(n)
+12|Medium|[solution](./0012/12.java)|[note](./0012/12.md)|
 
 ## BFS/DFS
 No. | difficulty | solution |note|time complexity|space complexity|like
