@@ -208,6 +208,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1099|Easy|[solution](./1099/1099.py)|[note](./1099/1099.md)|O(n^2)|O(1)
 76|Hard|[solution](./0076/76.java)|[note](./0076/76.md)|O(n)|O(n)
 11|Medium|[solution](./0011/11.java)|[note](./0011/11.md)|O(n)|O(1)
+283|Easy|[solution](./0283/283.java)|[note](./0283/283.md)|O(n)|O(1)
 
 ### Greedy
 No. | difficulty | solution |note|time complexity|space complexity|like
