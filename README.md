@@ -107,6 +107,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 134|Medium|[solution](./0134/134.java)|[note](./0134/134.md)|O(n^2)|O(1)
 6|Medium|[solution](./0006/6.java)|[note](./0006/6.md)|O(m\*n)|O(m\*n)
 53|Easy|[solution](./0053/53.java)|[note](./0053/53.md)|O(n)|O(1)
+122|Easy|[solution](./0122/122.java)|[note](./0122/122.md)|O(n)|O(1)
 
 ### Heap
 No. | difficulty | solution |note|time complexity|space complexity|like
