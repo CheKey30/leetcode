@@ -210,6 +210,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 76|Hard|[solution](./0076/76.java)|[note](./0076/76.md)|O(n)|O(n)
 11|Medium|[solution](./0011/11.java)|[note](./0011/11.md)|O(n)|O(1)
 283|Easy|[solution](./0283/283.java)|[note](./0283/283.md)|O(n)|O(1)
+876|Easy|[solution](./0876/876.java)|[note](./0876/876.md)|O(n)|O(1)
 
 ### Greedy
 No. | difficulty | solution |note|time complexity|space complexity|like
