@@ -202,6 +202,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 256|Easy|[solution](./0256/256.java)|[note](./0256/256.md)|O(n)|O(1)|
 71|Medium|[solution](./0071/71.java)|[note](./0071/71.md)|O(n)|O(n)|
 150|Medium|[solution](./0150/150.java)|[note](./0150/150.md)|O(n)|O(n)|
+844|Easy|[solution](./0844/844.java)|[note](./0844/844.md)|O(n)|O(n)|
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
