@@ -150,6 +150,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 572|Easy|[solution](./0572/572.java)|[note](./0572/572.md)|O(n)|O(1)
 235|Easy|[solution](./0235/235.java)|[note](./0235/235.md)|O(n)|O(1)
 543|Easy|[solution](./0543/543.java)|[note](./0543/543.md)|O(n)|O(1)
+1008|Medium|[solution](./1008/1008.java)|[note](./1008/1008.md)|O(n\*lgn)|O(n)
 
 
 ### String
