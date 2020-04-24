@@ -32,95 +32,83 @@ class LRUCache {
         int val;
         int key;
     }
-    
-    private int capacity;
-    private HashMap<Integer, Node> set;
-    private int cash;
-    private Node head;
-    private Node tail;
+    HashMap<Integer,Node> map;
+    int capacity;
+    int current;
+    Node head;
+    Node tail;
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        this.cash = 0;
-        this.set  = new HashMap<Integer,Node>();
+        this.current = 0;
         this.head = new Node();
-        this.head.prve = null;
         this.tail = new Node();
+        this.head.prve = null;
+        this.head.next = tail;
         this.tail.prve = head;
         this.tail.next = null;
-        this.head.next = tail;
-        
+        this.map = new HashMap<>();
     }
     
     public int get(int key) {
-        Node node = set.get(key);
-        if(node == null){
+        Node node = map.get(key);
+        if(node==null){
             return -1;
-        }else{
-            moveToHead(node);
-            return node.val;
         }
+        moveToHead(node);
+        return node.val;
+        
     }
     
     public void put(int key, int value) {
-        Node node = set.get(key);
-        if(node==null){
+        Node node = map.get(key);
+        if(node == null){
             Node newNode = new Node();
-        newNode.val = value;
-        newNode.key = key;
-        addNode(newNode);
-        this.set.put(key,newNode);
-        if(this.cash>this.capacity){
-            removeTail();
+            newNode.val = value;
+            newNode.key = key;
+            addToHead(newNode);
+            this.map.put(key,newNode);
+            if(this.capacity<this.current){
+                removeTail();
             }
         }else{
             node.val = value;
             moveToHead(node);
         }
-       
-        
     }
     
     public void moveToHead(Node node){
-        if(node.prve==this.head){
+        if(this.head.next == node){
             return;
-        }else if(node.next==this.tail){
-            node.prve.next=this.tail;
-            this.tail.prve = node.prve;
-            node.prve = this.head;
-            node.next = this.head.next;
-            this.head.next.prve = node;
-            this.head.next = node;
-        }else{
-            Node r = node.next;
-            Node l = node.prve;
-            l.next = r;
-            r.prve = l;
-            node.prve = this.head;
-            node.next = this.head.next;
-            this.head.next.prve = node;
-            this.head.next = node;
         }
-    }
-    
-    public void addNode(Node node){
+        Node r = node.next;
+        Node l = node.prve;
+        l.next = r;
+        r.prve = l;
         node.prve = this.head;
         node.next = this.head.next;
         this.head.next.prve = node;
         this.head.next = node;
-        this.cash++;
     }
     
     public void removeTail(){
         if(this.tail.prve == this.head){
             return;
         }
-        set.remove(this.tail.prve.key);
+        map.remove(this.tail.prve.key);
         Node rem = this.tail.prve;
         this.tail.prve = rem.prve;
         rem.prve.next = this.tail;
         rem.next = null;
         rem.prve = null;
-        this.cash--;
+        this.current--;
+    }
+    
+    public void addToHead(Node node){
+        node.next = this.head.next;
+        node.prve = this.head;
+        this.head.next.prve = node;
+        this.head.next = node;
+        this.current++;
     }
 }
 
