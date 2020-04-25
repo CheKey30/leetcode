@@ -224,6 +224,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1046|Easy|[solution](./1046/1046.py)|[note](./1046/1046.md)|O(n)|O(1)
 1029|Easy|[solution](./1029/1029.java)|[note](./1029/1029.md)|O(n)|O(n)
 135|Hard|[solution](./0135/135.java)|[note](./0135/135.md)|O(n)|O(n)
+55|Medium|[solution](./0055/55.java)|[note](./0055/55.md)|O(n)|O(1)
 
 ### Linked_List
 No. | difficulty | solution |note|time complexity|space complexity|like
