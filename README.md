@@ -257,6 +257,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 91|Medium|[solution](./0091/91.java)|[note](./0091/91.md)|O(n)|O(n)
 140|Hard|[solution](./0140/140.java)|[note](./0140/140.md)|
 97|Hard|[solution](./0097/97.java)|[note](./0097/97.md)|O(n^2)|O(n^2)
+1143|Medium|[solution](./1143/1143.java)|[note](./1143/1143.md)|O(n^2)|O(n^2)
 
 
 
