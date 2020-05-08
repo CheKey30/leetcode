@@ -44,7 +44,7 @@ Tree|[note](./data-structure/Tree.md)
 ## Categories
 ### Sort
 No. | difficulty | solution |note|time complexity|space complexity|like
-------| -------------|-------------|--------|---------------|----------|----------|
+------| -------------|-------------|--------|---------------|----------|----------
 56|Medium|[solution](./0056/56.py)|[note](./0056/56.md)|O(n)|O(1)|
 57|Hard |[solution](./0057/57.py)|[note](./0057/57.md)|O(n)|O(n)|&hearts;
 75|Medium|[solution](./0075/75.py)|[note](./0075/75.md)|O(logn)|O(1)|
@@ -114,6 +114,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 378|Medium|[solution](./0378/378.py)|[note](./0378/378.md)|O(nlogn)|O(1)|&hearts;
+1167|Medium|[solution](./1167/1167.java)|[note](./1167/1167.md)|O(nlogn)|O(n)|&hearts;
 
 ### Tree
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -297,15 +298,11 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 201|Medium|[solution](./0201/201.java)|[note](./0201/201.md)|O(1)|O(1)
 1232|Easy|[solution](./1231/1231.java)|[note](./1231/1231.md)|O(n)|O(1)
 
-## BFS/DFS
+### BFS/DFS
 No. | difficulty | solution |note|time complexity|space complexity|like
 ------| -------------|-------------|--------|--------|--------|------------
 79|Medium|[solution](./0079/79.java)|[note](./0079/79.md)|O(n^2)|O(1)|
 200|Medium|[solution](./0200/0200.java)|[note](./0200/200.md)|O(n^2)|O(n^2)
 1192|Hard|[solution](./1192/1192.java)|[note](./1192/1192.md)|O(n)|O(n)|&hearts;
 
-## Heap
-No. | difficulty | solution |note|time complexity|space complexity|like
-------| -------------|-------------|--------|--------|--------|------------
-1167|Medium|[solution](./1167/1167.java)|[note](./1167/1167.md)|O(nlogn)|O(n)|&hearts;
 
