@@ -204,13 +204,13 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 1063|Hard|[solution](./1063/1063.py)|[note](./1063/1063.md)|O(n)|O(n)|&hearts;
 84|Hard|[solution](./0084/84.py)|[note](./0084/84.md)|O(n)|O(n)|&hearts;
 32|Hard|[solution](./0032/32.java)|[note](./0032/32.md)|O(n)|O(n)|&hearts;
-42|Hard|[solution](./0042/42.java)|[note](./0042/42.md)|O(n)|O(n)&hearts;
+42|Hard|[solution](./0042/42.java)|[note](./0042/42.md)|O(n)|O(n)\|&hearts;|
 85|Hard|[solution](./0085/85.java)|[note](./0085/85.md)|O(n\*m)|O(m\*n)|&hearts;
 256|Easy|[solution](./0256/256.java)|[note](./0256/256.md)|O(n)|O(1)|
 71|Medium|[solution](./0071/71.java)|[note](./0071/71.md)|O(n)|O(n)|
 150|Medium|[solution](./0150/150.java)|[note](./0150/150.md)|O(n)|O(n)|
 844|Easy|[solution](./0844/844.java)|[note](./0844/844.md)|O(n)|O(n)|
-678|Medium|[solution](./0678/678.java)|[note](./0678/678.md)|O(n)|O(n)
+678|Medium|[solution](./0678/678.java)|[note](./0678/678.md)|O(n)|O(n)|
 
 ### Two_Pointers
 No. | difficulty | solution |note|time complexity|space complexity|like
@@ -236,7 +236,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 141|Easy|[solution](./0141/141.py)|[note](./0141/141.md)|O(n)|O(1)
 142|Medium|[solution](./0142/142.py)|[note](./0142/142.md)|O(n)|O(1)|&hearts;
 160|Easy|[solution](./0160/160.py)|[note](./0160/160.md)|O(n)|O(1)|&hearts;
-25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)&hearts;
+25|Hard|[solution](./0025/25.py)|[note](./0025/25.md)|O(n\*k)|O(1)|&hearts;
 146|Medium|[solution](./0146/146.java)|[note](./0146/146.md)|O(1)|O(n)
 61|Medium|[solution](./0061/61.java)|[note](./0061/61.md)|O(m)|O(1)
 2|Medium|[solution](./0002/2.java)|[note](./0002/2.md)|O(n)|O(n)
