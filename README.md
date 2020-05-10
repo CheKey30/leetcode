@@ -263,6 +263,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 140|Hard|[solution](./0140/140.java)|[note](./0140/140.md)|
 97|Hard|[solution](./0097/97.java)|[note](./0097/97.md)|O(n^2)|O(n^2)
 1143|Medium|[solution](./1143/1143.java)|[note](./1143/1143.md)|O(n^2)|O(n^2)
+1278|Hard|[solution](./1278/1278.java)|[note](./1278/1278.md)|O(n^3)|O(n^2)|&hearts;
 
 
 
