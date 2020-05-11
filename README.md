@@ -307,5 +307,6 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 79|Medium|[solution](./0079/79.java)|[note](./0079/79.md)|O(n^2)|O(1)|
 200|Medium|[solution](./0200/0200.java)|[note](./0200/200.md)|O(n^2)|O(n^2)
 1192|Hard|[solution](./1192/1192.java)|[note](./1192/1192.md)|O(n)|O(n)|&hearts;
+733|Easy|[solution](./0733/733.java)|[note](./0733/733.md)|O(n)|O(1)
 
 
