@@ -197,6 +197,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 525|Medium|[solution](./0525/525.java)|[note](./0525/525.md)|O(n)|O(n)
 378|Easy|[solution](./0387/387.java)|[note](./0387/387.md)|O(n)|O(n)
 169|Easy|[solution](./0169/169.java)|[note](./0169/169.md)|O(n)|O(n)
+1282|Medium|[solution](./1282/1282.java)|[note](./1282/1282.md)|O(n)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
