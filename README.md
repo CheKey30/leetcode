@@ -94,7 +94,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 985|Easy|[solution](./0985/985.py)|[note](./0985/985.md)|O(n)|O(n)
 1103|Easy|[solution](./1103/1103.py)|[note](./1103/1103.md)|O(n)|O(n)
 1013|Easy|[solution](./1013/1013.py)|[note](./1013/1013.md)|O(n)|O(1)
-0999|Easy|[solution](./0999/999.py)|[note](./0999/999.md)|O(n^2)|O(1)
+999|Easy|[solution](./0999/999.py)|[note](./0999/999.md)|O(n^2)|O(1)
 370|Medium|[solution](./0370/370.py)|[note](./0370/370.md)|O(n)|O(n)|&hearts;
 1030|Easy|[solution](./1030/1030.py)|[note](./1030/1030.md)|O(n)|O(n)|
 157|Easy|[solution](./0157/157.py)|[note](./0157/157.md)|O(n)|O(n)
@@ -199,6 +199,7 @@ No. | difficulty | solution |note|time complexity|space complexity|like
 378|Easy|[solution](./0387/387.java)|[note](./0387/387.md)|O(n)|O(n)
 169|Easy|[solution](./0169/169.java)|[note](./0169/169.md)|O(n)|O(n)
 1282|Medium|[solution](./1282/1282.java)|[note](./1282/1282.md)|O(n)|O(n)
+1460|Easy|[solution](./1460/1460.java)|[note](./1460/1460.md)|O(n)|O(n)
 
 ### Stack
 No. | difficulty | solution |note|time complexity|space complexity|like
