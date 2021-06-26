@@ -39,7 +39,7 @@ Name|Note
 ------|-------|
 Stack and Queue|[note](./data-structure/Stack-and-Queue.md)
 Tree|[note](./data-structure/Tree.md)
-Double LinkedList|[note](./data-structure/Double LinkedList.md)
+Double LinkedList|[note](./data-structure/DoubleLinkedList.md)
 
 
 ## Categories
