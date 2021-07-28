@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee5b3489-099b-49d3-b95d-5cc68432e9e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="eaf5a524-3a58-420c-9011-ab8e498e6219" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ssjsi6E2ay3TEM04Cgi5wPae8A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RunManager" selected="Application.MinimumWindowSubstring">
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestValidParentheses" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumWindowSubstring" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subsets" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrappingRainWater" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinimumWindowSubstring" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.LongestValidParentheses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee5b3489-099b-49d3-b95d-5cc68432e9e3" name="Default Changelist" comment="" />
+      <created>1621668399542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621668399542</updated>
+      <workItem from="1621668400665" duration="4637000" />
+      <workItem from="1621758885454" duration="2228000" />
+      <workItem from="1621828963070" duration="3221000" />
+      <workItem from="1622368763980" duration="2232000" />
+      <workItem from="1622873753776" duration="2813000" />
+      <workItem from="1624688450069" duration="2629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="242" key="#Inspections" timestamp="1624690296264">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="530" y="242" key="#Inspections/0.0.1792.1120@0.0.1792.1120" timestamp="1624690296264" />
+    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621670450140">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621670450140" />
+    <state x="659" y="264" key="#xdebugger.evaluate" timestamp="1622369154329">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="941" y="339" key="#xdebugger.evaluate/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1621759432601" />
+    <state x="659" y="264" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1622369154329" />
+    <state width="1748" height="293" key="GridCell.Tab.0.bottom" timestamp="1624700219634">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="318" key="GridCell.Tab.0.bottom/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022265" />
+    <state width="1748" height="293" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219634" />
+    <state width="1748" height="293" key="GridCell.Tab.0.center" timestamp="1624700219633">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="318" key="GridCell.Tab.0.center/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022262" />
+    <state width="1748" height="293" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219633" />
+    <state width="1748" height="293" key="GridCell.Tab.0.left" timestamp="1624700219632">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="318" key="GridCell.Tab.0.left/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022261" />
+    <state width="1748" height="293" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219632" />
+    <state width="1748" height="293" key="GridCell.Tab.0.right" timestamp="1624700219633">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="318" key="GridCell.Tab.0.right/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022264" />
+    <state width="1748" height="293" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219633" />
+    <state width="1748" height="293" key="GridCell.Tab.1.bottom" timestamp="1624700219635">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.bottom/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022250" />
+    <state width="1748" height="293" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219635" />
+    <state width="1748" height="293" key="GridCell.Tab.1.center" timestamp="1624700219635">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.center/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022245" />
+    <state width="1748" height="293" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219635" />
+    <state width="1748" height="293" key="GridCell.Tab.1.left" timestamp="1624700219634">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.left/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022244" />
+    <state width="1748" height="293" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219634" />
+    <state width="1748" height="293" key="GridCell.Tab.1.right" timestamp="1624700219635">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.1.right/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1622429022246" />
+    <state width="1748" height="293" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624700219635" />
+    <state x="484" y="307" key="IDE.errors.dialog" timestamp="1621669389303">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="484" y="307" key="IDE.errors.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621669389303" />
+    <state x="63" y="180" width="1582" height="784" key="SettingsEditor" timestamp="1621829295495">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="63" y="180" key="SettingsEditor/-1792.320.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1621829295495" />
+    <state x="44" y="140" width="1582" height="784" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1621679568613" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/com/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/com/leetcode/editor/cn/LongestPalindromicSubstring.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/com/leetcode/editor/cn/LongestPalindromicSubstring.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/com/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/LongestValidParentheses.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/Subsets.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/Subsets.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/TrappingRainWater.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/TrappingRainWater.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="res.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$Subsets.ic" NAME="Subsets Coverage Results" MODIFIED="1622417902035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
