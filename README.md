@@ -1,6 +1,6 @@
 # Leetcode
 ## Intro
-![](./algorithms.png)
+![](https://github.com/CheKey30/leetcode/blob/master/Algorithms.png)
 * 算法和数据结构 
 	* 算法
 		* 基础算法
